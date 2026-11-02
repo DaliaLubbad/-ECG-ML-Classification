@@ -72,11 +72,11 @@ The final model was evaluated on 14,184 test beats.
 
 ### Confusion Matrix
 
-![Confusion Matrix](results/confusion_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 ### ECG Signal Visualization
 
-![ECG Signal](results/ecg_signal.png)
+![ECG Signal](ecg_signal.png)
 
 ## Project Structure
 
